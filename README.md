@@ -1,5 +1,13 @@
 # 💫 About Me:
-<br><br>🔭 I’m currently working on<br>Building my skills in DSA, Web Development, and AI/ML fundamentals while working on real-world projects like my Event Management platform.<br><br>👯 I’m looking to collaborate on<br>Open-source projects, web development ideas, and beginner-friendly AI/ML projects.<br><br>🤝 I’m looking for help with<br>Improving my problem-solving skills in Data Structures & Algorithms and writing optimized code for coding interviews.<br><br>🌱 I’m currently learning<br>Data Structures & Algorithms, Java, JavaScript, and basics of Machine Learning.<br><br>💬 Ask me about<br>Web development basics, beginner DSA journey, college projects, and building portfolios.<br><br>⚡ Fun fact<br>I enjoy turning complex problems into simple step-by-step solutions and I’m consistently working to become a better problem solver.
+
+
+🔭 Building real-world projects in Web Development and Software Engineering.
+🌱 Learning DSA, AI/ML, and modern development technologies.
+💡 Passionate about solving problems through technology and innovation.
+🚀 Participating in hackathons and continuously improving my skills.
+🎯 Aspiring Software Engineer focused on impactful digital solutions.
+💬 Ask me about Java, DSA, Web Development, and student projects.
+⚡ Turning complex challenges into simple and effective solutions.
 
 
 ## 🌐 Socials:
