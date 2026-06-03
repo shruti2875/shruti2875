@@ -1,13 +1,13 @@
 # 💫 About Me:
 
 
-🔭 Building real-world projects in Web Development and Software Engineering.
-🌱 Learning DSA, AI/ML, and modern development technologies.
-💡 Passionate about solving problems through technology and innovation.
-🚀 Participating in hackathons and continuously improving my skills.
-🎯 Aspiring Software Engineer focused on impactful digital solutions.
-💬 Ask me about Java, DSA, Web Development, and student projects.
-⚡ Turning complex challenges into simple and effective solutions.
+<br><br>🔭 Building real-world projects in Web Development and Software Engineering.
+<br><br>🌱 Learning DSA, AI/ML, and modern development technologies.
+<br><br>💡 Passionate about solving problems through technology and innovation.
+<br><br>🚀 Participating in hackathons and continuously improving my skills.
+<br><br>🎯 Aspiring Software Engineer focused on impactful digital solutions.
+<br><br>💬 Ask me about Java, DSA, Web Development, and student projects.
+<br><br>⚡ Turning complex challenges into simple and effective solutions.
 
 
 ## 🌐 Socials:
